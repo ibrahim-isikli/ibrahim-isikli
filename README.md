@@ -1,4 +1,4 @@
-<img src="./assets/my-lab.gif" width="500"/>
+<img src="./assets/my-lab.gif" />
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=ibrahim-isikli&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=true)<br/>
