@@ -11,13 +11,13 @@
 
 <div align="center">
 
-  ![](https://github-readme-stats.vercel.app/api?username=ibrahim-isikli&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=true)
+ [![](https://github-readme-stats-cyyin.vercel.app/api?username=ibrahim-isikli&count_private=true&show_icons=true&theme=tokyonight&hide_border=false&hide_title=true&show_owner=true&show=discussions_answered&disable_animations=false)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
 
 </div>
 
 <div align="center">
 
-  ![](https://nirzak-streak-stats.vercel.app/?user=ibrahim-isikli&theme=tokyonight&hide_border=false)
+  ![](https://nirzak-streak-stats.vercel.app/?user=ibrahim-isikli&theme=tokyonight&hide_border=false&disable_animations=false)
 
 </div>
 
@@ -26,6 +26,7 @@
   ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ibrahim-isikli&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
 
 </div>
+
 
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
