@@ -24,6 +24,4 @@
 
 
 
-<p align="center">
-  <img src="https://spotify-lyrics-badge-tau.vercel.app/api/spotify-lyrics?theme=tokyo-night" alt="Spotify Now Playing" width="480" />
-</p>
+
